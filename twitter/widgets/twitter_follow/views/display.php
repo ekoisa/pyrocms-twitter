@@ -1,0 +1,2 @@
+<a href="https://twitter.com/<?php echo $options['data-name']; ?>" class="twitter-follow-button" data-button="<?php echo $options['data-button']; ?>" data-text-color="#<?php echo $options['data-text-color']; ?>" data-link-color="#<?php echo $options['data-link-color']; ?>" data-width="<?php echo $options['data-width']; ?>" data-align="<?php echo $options['data-align']; ?>" data-show-count="<?php echo $options['data-show-count']; ?>">@<?php echo $options['data-name']; ?></a>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
